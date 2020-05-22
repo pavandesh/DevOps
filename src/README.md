@@ -1,2 +1,3 @@
 # DevOps
-Doing DevOps stuff
+Doing DevOps stuff 
+Verifying Merge Conflict feature
